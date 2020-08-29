@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!-- YT-END -->
 
 ### 🎧 Spotify Playing
-[![Spotify](https://spotify-now-playing-7rglttyl4.vercel.app/](https://open.spotify.com/user/31l4s6e7y2neadoisni2h5ep34xi?si=GTkMJ_IEQF2iT8ZRj_-W_Q)
+[<img src="https://spotify-now-playing-7rglttyl4.vercel.app/" alt="obipolare spotify playing" width="350">]()
 <!-- LINKS -->
 
 
