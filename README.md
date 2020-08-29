@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!-- YT-END -->
 
 ### 🎧 Spotify Playing
-[![Spotify](https://spotify-now-playing-7rglttyl4.vercel.app/](https://open.spotify.com/playlist/0Fzm0XhBIOlplIiNYfRI95?si=IY8ORvvuQ9ic0-ZVcqyh4g)
+[![Spotify](https://spotify-now-playing-7rglttyl4.vercel.app/](https://open.spotify.com/user/31l4s6e7y2neadoisni2h5ep34xi?si=GTkMJ_IEQF2iT8ZRj_-W_Q)
 <!-- LINKS -->
 
 
