@@ -35,21 +35,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📘 Last posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎥 Last YT videos
-
-<!-- YT-START -->
-<!-- YT-END -->
-
-### 🎧 Spotify Playing
-[<img src="https://spotify-now-playing-7rglttyl4.vercel.app" alt="obipolare spotify playing" width="350">](https://open.spotify.com/playlist/0Fzm0XhBIOlplIiNYfRI95?si=NmV-evOvRT6L2Q_kGZEQyA)
-<!-- LINKS -->
-
 
 [instagram]: https://www.instagram.com/obipolare/
 [yt]: https://www.youtube.com/channel/UCjBWKPHYM_azisD60cO87xA?view_as=subscriber
