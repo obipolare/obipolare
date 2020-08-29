@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 
 ---
 
-🎥 Last YT videos
+### 🎥 Last YT videos
 
 <!-- YT-START -->
 <!-- YT-END -->
 
 ### 🎧 Spotify Playing
-[<img src="https://spotify-now-playing-7rglttyl4.vercel.app/" alt="obipolare spotify playing" width="350">](https://open.spotify.com/playlist/0Fzm0XhBIOlplIiNYfRI95?si=Izr2O5huRFytCA-q427xGA)
+[<img src="https://spotify-now-playing-7rglttyl4.vercel.app/" alt="obipolare spotify playing" width="350">]()
 <!-- LINKS -->
 
 
