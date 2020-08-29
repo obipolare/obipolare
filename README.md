@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 <!-- YT-START -->
 <!-- YT-END -->
 
+### 🎧 Spotify Playing
+[<img src="https://spotify-now-playing-7rglttyl4.vercel.app/" alt="obipolare spotify playing" width="350">](https://open.spotify.com/playlist/0Fzm0XhBIOlplIiNYfRI95?si=Izr2O5huRFytCA-q427xGA)
 <!-- LINKS -->
+
 
 [instagram]: https://www.instagram.com/obipolare/
 [yt]: https://www.youtube.com/channel/UCjBWKPHYM_azisD60cO87xA?view_as=subscriber
