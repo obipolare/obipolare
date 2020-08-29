@@ -35,6 +35,17 @@ Here are some ideas to get you started:
 
 ---
 
+### 📘 Last posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+🎥 Last YT videos
+
+<!-- YT-START -->
+<!-- YT-END -->
+
 <!-- LINKS -->
 
 [instagram]: https://www.instagram.com/obipolare/
