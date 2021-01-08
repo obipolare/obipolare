@@ -22,7 +22,7 @@
 
 [<img align="left" alt="TailwindCSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">][yt]
 
-[<img align="left" alt="Javascript" width="50pxx" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][yt]
+[<img align="left" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][yt]
 
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][yt]
 
@@ -31,8 +31,6 @@
 [<img align="left" alt="Nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][yt]
 
 [<img align="left" alt="deno" width="50px" height="50px" src="http://devnot.com/wp-content/uploads/2020/05/deno_hr.png">][yt]
---------
-<br>
 
 
 
