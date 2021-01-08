@@ -36,5 +36,5 @@
 
 ---
 
-[![instagram]:(https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png)](https://www.instagram.com/obipolare/)
+[![instagram](https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png)](https://www.instagram.com/obipolare)
 
