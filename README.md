@@ -55,9 +55,8 @@
 
 <!-- LINKS -->
 
-[website]: https://naviscode.com/
+[instagram]: https://www.instagram.com/obipolare
 [yt]: https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw?sub_confirmation=1
-[blog]: https://blog.naviscode.com/
 
 
 
