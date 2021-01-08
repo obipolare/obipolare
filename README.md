@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][yt]
 
-[<img align="left" alt="deno" width="30px" src="http://devnot.com/wp-content/uploads/2020/05/deno_hr.png">][yt]
+[<img align="left" alt="deno" width="50px" height="35px" src="http://devnot.com/wp-content/uploads/2020/05/deno_hr.png">][yt]
 
 <br>
 
