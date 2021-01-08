@@ -35,20 +35,6 @@
 
 ---
 
-### 🎥 Last YT videos
-
-<!-- YT:START -->
-- [javascript funciones flecha [2021]](https://www.youtube.com/watch?v=m9PsxIAPFzM)
-- [Lazy loading consigue +90 en performance (como usarlo fácil en 2021)](https://www.youtube.com/watch?v=9ZiVYdwnXIQ)
-- [Validar formulario con javascript (descarga gratuita)](https://www.youtube.com/watch?v=OwdYwteGt2U)
-- [Web de recursos de programacion gratis](https://www.youtube.com/watch?v=ylzOJT-PVzw)
-- [Tutorial angular en español desde cero, aprende 🅰ngular sin conocimiento previo](https://www.youtube.com/watch?v=vGF5RdpsyWU)
-<!-- YT:END -->
-
-➡️ [More videos...][yt]
-
----
-
 ### 🎧 Spotify Playing
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
