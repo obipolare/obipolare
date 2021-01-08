@@ -32,9 +32,4 @@
 
 [<img align="left" alt="deno" width="50px" height="50px" src="http://devnot.com/wp-content/uploads/2020/05/deno_hr.png">][yt]
 
-<br>
-
----
-
-[![instagram](https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png)](https://www.instagram.com/obipolare)
 
