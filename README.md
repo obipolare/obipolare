@@ -36,6 +36,5 @@
 
 ---
 
-
-[instagram]: https://www.instagram.com/obipolare/
-[yt]: https://www.youtube.com/channel/UCjBWKPHYM_azisD60cO87xA?view_as=subscriber
+[![instagram]: https://www.instagram.com/obipolare/]
+[![yt]: https://www.youtube.com/channel/UCjBWKPHYM_azisD60cO87xA?view_as=subscriber]
