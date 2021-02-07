@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Obipolare?color=%231DA1F2&label=Obipolare&logo=Twitter&style=for-the-badge)](https://twitter.com/obipolare)
 
-### 💻 Web Developer / 🌱 Vegan / 🍀
+### 💻 Web Developer / 🌱 Vegan / Estoico / 🍀
 
 - 🔭 I’m not currently working
 - 🌱 I’m currently learning more about web dev
