@@ -4,12 +4,9 @@
 
 ### 💻 Web Developer / 🌱 Vegan / Estoico / 🍀
 
-- 🔭 I’m not currently working
 - 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
 - 🤔 I’m looking for help with someone
 - 💬 Ask me about to be a web dev
-- 📫 How to reach me: ...
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
