@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with someone
 - 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+- ⚡ Fun fact: I love videogames but I have no time to play them(thats fun)
 
 ### 🚀 Coding
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][yt]
